@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/biprajitpaul5555)
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<!--<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />-->
 <h1 align="center">Hi 👋, I'm Biprajit Paul</h1>
 <h3 align="center">I am a hardworking and ambitious full-stack web developer. I am also a competitive programmer.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=biprajitpaul5555&label=Profile%20views&color=0e75b6&style=flat" alt="biprajitpaul5555" /> </p>
@@ -90,4 +90,4 @@
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=biprajitpaul5555&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!--<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />-->
