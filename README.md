@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/biprajitpaul5555**
 
-- 📄 Know about my skills & achievements **https://drive.google.com/file/d/1APwgeJBFUyJ2KUrWukdjnf2EK5_pJgre/view?usp=drive_link**
+- 📄 Know about my skills & achievements **https://drive.google.com/file/d/1MZ5NfEWBGa90-svAPF4KoWyDHsIuz55x/view?usp=sharing**
 
 - 😄 Pronouns: he/him
 
